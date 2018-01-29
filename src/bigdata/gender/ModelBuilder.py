@@ -56,7 +56,7 @@ def count_feature_vn(name):
 
 def train():
     print "training...!"
-    f = codecs.open("/home/kumin/Dropbox/DATN2016/code/ClassifyGender/data/name_gender.txt", "r", encoding="utf-8")
+    f = codecs.open("../../../data/name_gender.txt", "r", encoding="utf-8")
     X = []
     y = []
     for line in f:
@@ -93,13 +93,13 @@ def train():
 
         accuracy = np.mean(clf.predict(Xt) == yt)
         if accuracy > max_accuracy:
-            joblib.dump(clf, "/home/kumin/Dropbox/DATN2016/code/ClassifyGender/model/clf_vi.model")
+            joblib.dump(clf, "../../../model/clf_vi.model")
             max_accuracy = accuracy
         print accuracy
 
 
 def predic_gender_test():
-    clf = joblib.load("/home/kumin/Dropbox/DATN2016/code/ClassifyGender/model/clf_vi.model")
+    clf = joblib.load("../../../model/clf_vi.model")
     while True:
         first_name = raw_input("Enter First Name:")
         first_name = unicode(first_name, 'utf-8')
@@ -109,7 +109,6 @@ def predic_gender_test():
         print first_name
 
         print clf.predict(count_feature_vn(first_name))
-
 
 def preprocessing_text(content):
     content = content.lower()

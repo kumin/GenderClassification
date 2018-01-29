@@ -2,163 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3b6194e-7748-4a93-9071-0501890ae88a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/NationalReadMe.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ClassifyGender.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/kumin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.ignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/lastname_vi.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/name_gender.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1880.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1881.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1882.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1883.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1884.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1885.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1886.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1887.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1888.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1889.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1890.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1891.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1892.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1893.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1894.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1895.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1896.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1897.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1898.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1899.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1900.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1901.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1902.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1903.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1904.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1905.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1906.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1907.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1908.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1909.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1910.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1911.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1912.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1913.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1914.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1915.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1916.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1917.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1918.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1919.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1920.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1921.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1922.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1923.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1924.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1925.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1926.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1927.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1928.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1929.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1930.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1931.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1932.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1933.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1934.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1935.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1936.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1937.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1938.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1939.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1940.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1941.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1942.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1943.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1944.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1945.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1946.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1947.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1948.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1949.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1950.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1951.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1952.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1953.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1954.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1955.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1956.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1957.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1958.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1959.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1960.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1961.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1962.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1963.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1964.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1965.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1966.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1967.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1968.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1969.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1970.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1971.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1972.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1973.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1974.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1975.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1976.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1977.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1978.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1979.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1980.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1981.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1982.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1983.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1984.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1985.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1986.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1987.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1988.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1989.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1990.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1991.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1992.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1993.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1994.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1995.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1996.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1997.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1998.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob1999.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob2000.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob2001.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob2002.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob2003.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob2004.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob2005.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob2006.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob2007.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob2008.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob2009.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob2010.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob2011.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob2012.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob2013.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob2014.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob2015.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/names/yob2016.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/clf_en.model" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/clf_vi.model" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bigdata/DesisionTree/RandomForest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bigdata/DesisionTree/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bigdata/ElasticsearchReader.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bigdata/Test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bigdata/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bigdata/gender/ClassificationSex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bigdata/gender/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/http:__www.facebook.com_datamquoc-pagesouput.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_BuaTaVN_-pagesouput.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_DongTaTayDoc.vn_-pagesouput.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_RowVietnam_-pagesouput.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_TamQuoc.3D_-pagesouput.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_TamQuocBaNghiep-pagesouput.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_XichBich3D_-pagesouput.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_badao.gaba.vn_-pagesouput.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_daichientamquoc_?ref=br_rs-pagesouput.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_daiminhchu_-pagesouput.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_groups_1824961627793158_?source_id=131133654034074-pagesouput.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_groups_669013496625436_about_-pagesouput.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_groups_TamQuocGO_about_-pagesouput.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_groups_XichBich3D_about_-pagesouput.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_groups_daichientamquoc_about_-pagesouput.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_groups_datamquoc.vn_about_-pagesouput.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_groups_dongtataydoc.vn_about_-pagesouput.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_groups_kimdung_about_-pagesouput.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_groups_longtuong3d_about_-pagesouput.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_groups_vothanhmobile_?source_id=1823417017983633-pagesouput.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_khongminhtruyen_-pagesouput.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_longtuongvtc_-pagesouput.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_mongvolam.sohagame_-pagesouput.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_tamquoc3q.vtcgame_?ref=br_rs-pagesouput.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_vothanhmobile.vn_-pagesouput.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_xtamquoc_-pagesouput.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bigdata/gender/GenderPrediction.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bigdata/gender/SexService.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bigdata/soha/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bigdata/soha/soha.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bigdata/svm/SupportVectorMachine.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bigdata/svm/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/bigdata/gender/ClassificationSex.py" afterPath="$PROJECT_DIR$/src/bigdata/gender/ModelBuilder.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -170,43 +48,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ClassificationSex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bigdata/gender/ClassificationSex.py">
+      <file leaf-file-name="SupportVectorMachine.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/bigdata/svm/SupportVectorMachine.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="122" column="26" lean-forward="false" selection-start-line="122" selection-start-column="26" selection-end-line="122" selection-end-column="26" />
-              <folding>
-                <element signature="e#24#42#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".ignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.ignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="name_gender.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/name_gender.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7220">
-              <caret line="361" column="9" lean-forward="false" selection-start-line="361" selection-start-column="9" selection-end-line="361" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lastname_vi.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/lastname_vi.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="246">
+              <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -226,6 +72,8 @@
       <find>data_set</find>
       <find>predict</find>
       <find>predict(</find>
+      <find>female</find>
+      <find>print</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -237,18 +85,28 @@
         <option value="$PROJECT_DIR$/data/name_gender.txt" />
         <option value="$PROJECT_DIR$/src/bigdata/DesisionTree/RandomForest.py" />
         <option value="$PROJECT_DIR$/data/lastname_vi.txt" />
-        <option value="$PROJECT_DIR$/src/bigdata/gender/ClassificationSex.py" />
         <option value="$PROJECT_DIR$/.ignore" />
+        <option value="$PROJECT_DIR$/src/bigdata/service/Test.py" />
+        <option value="$PROJECT_DIR$/src/bigdata/service/FalconService.py" />
+        <option value="$PROJECT_DIR$/src/bigdata/gender/ClassificationSex.py" />
+        <option value="$PROJECT_DIR$/src/bigdata/service/SexService.py" />
+        <option value="$PROJECT_DIR$/src/bigdata/gender/GenderPrediction.py" />
+        <option value="$PROJECT_DIR$/src/bigdata/gender/SexService.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/bigdata/soha/soha.py" />
+        <option value="$PROJECT_DIR$/src/bigdata/svm/SupportVectorMachine.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1" />
+    <option name="x" value="40" />
     <option name="y" value="-11" />
-    <option name="width" value="1602" />
+    <option name="width" value="1561" />
     <option name="height" value="912" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -264,8 +122,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -328,6 +184,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="svm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ClassifyGender" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ClassifyGender" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bigdata" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="gender" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -354,42 +232,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ClassifyGender" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ClassifyGender" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="model" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ClassifyGender" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ClassifyGender" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/input" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/data" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/bigdata/gender" />
+      <recent name="$PROJECT_DIR$/data" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -404,7 +260,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ClassificationSex">
+  <component name="RunManager" selected="Python.SupportVectorMachine">
     <configuration default="false" name="ClassificationSex" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -417,7 +273,61 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ClassifyGender" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/bigdata/gender/ClassificationSex.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/bigdata/gender/ModelBuilder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SupportVectorMachine" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/bigdata/svm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ClassifyGender" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/bigdata/svm/SupportVectorMachine.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="GenderPrediction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/bigdata/gender" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ClassifyGender" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/bigdata/gender/GenderPrediction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="soha" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/bigdata/soha" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ClassifyGender" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/bigdata/soha/soha.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -487,7 +397,7 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittests in ClassificationSex.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
+    <configuration default="false" name="Unittests in ModelBuilder.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -498,17 +408,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ClassifyGender" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/bigdata/gender/ClassificationSex.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/bigdata/gender/ModelBuilder.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in ClassificationSex.py" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in ModelBuilder.py" />
       <item index="1" class="java.lang.String" itemvalue="Python.ClassificationSex" />
+      <item index="2" class="java.lang.String" itemvalue="Python.SupportVectorMachine" />
+      <item index="3" class="java.lang.String" itemvalue="Python.GenderPrediction" />
+      <item index="4" class="java.lang.String" itemvalue="Python.soha" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.ClassificationSex" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.SupportVectorMachine" />
+        <item index="1" class="java.lang.String" itemvalue="Python.soha" />
+        <item index="2" class="java.lang.String" itemvalue="Python.GenderPrediction" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ClassificationSex" />
       </list>
     </recent_temporary>
   </component>
@@ -526,12 +442,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_ClassificationSex_py - 2017.09.18 at 16h 35m 31s.xml">
-      <configuration name="Unittests in ClassificationSex.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_ClassificationSex_py - 2017.09.19 at 08h 55m 40s.xml">
-      <configuration name="Unittests in ClassificationSex.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_ClassificationSex_py - 2017.09.19 at 08h 57m 02s.xml">
       <configuration name="Unittests in ClassificationSex.py" configurationId="tests" />
     </history-entry>
@@ -556,20 +466,27 @@
     <history-entry file="Unittests_in_ClassificationSex_py - 2017.10.14 at 10h 54m 51s.xml">
       <configuration name="Unittests in ClassificationSex.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_ClassificationSex_py - 2018.01.11 at 10h 15m 52s.xml">
+      <configuration name="Unittests in ClassificationSex.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_ClassificationSex_py - 2018.01.11 at 10h 16m 24s.xml">
+      <configuration name="Unittests in ClassificationSex.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-11" width="1602" height="912" extended-state="6" />
+    <frame x="40" y="-11" width="1561" height="912" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25675675" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28684732" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3303342" sideWeight="0.502574" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40641025" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40616965" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3303342" sideWeight="0.497426" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3303342" sideWeight="0.497426" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39974293" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -608,13 +525,73 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/bigdata/gender/ClassificationSex.py">
+    <entry file="file://$PROJECT_DIR$/src/bigdata/gender/ModelBuilder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1720">
-          <caret line="90" column="26" lean-forward="true" selection-start-line="90" selection-start-column="26" selection-end-line="90" selection-end-column="26" />
-          <folding>
-            <element signature="e#24#42#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="320">
+          <caret line="16" column="37" lean-forward="false" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigdata/svm/SupportVectorMachine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigdata/gender/ModelBuilder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigdata/svm/SupportVectorMachine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigdata/gender/ModelBuilder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigdata/gender/ModelBuilder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.ignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/name_gender.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7220">
+          <caret line="361" column="9" lean-forward="false" selection-start-line="361" selection-start-column="9" selection-end-line="361" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -622,7 +599,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigdata/gender/ModelBuilder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigdata/gender/ModelBuilder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1720">
+          <caret line="90" column="26" lean-forward="true" selection-start-line="90" selection-start-column="26" selection-end-line="90" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/lastname_vi.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -630,31 +627,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7220">
           <caret line="361" column="9" lean-forward="true" selection-start-line="361" selection-start-column="9" selection-end-line="361" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/names/yob1880.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/names/yob1897.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/names/yob1912.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/data/names/yob1880.txt" />
+    <entry file="file://$PROJECT_DIR$/data/names/yob1897.txt" />
+    <entry file="file://$PROJECT_DIR$/data/names/yob1912.txt" />
     <entry file="file://$PROJECT_DIR$/src/bigdata/ElasticsearchReader.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -669,13 +647,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/names/yob2014.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/data/names/yob2014.txt" />
     <entry file="file://$PROJECT_DIR$/model/clf.model" />
     <entry file="file:///usr/lib/python2.7/re.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -698,24 +670,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="907">
-          <caret line="1882" column="49" lean-forward="false" selection-start-line="1882" selection-start-column="49" selection-end-line="1882" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/model/clf_en.model">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigdata/DesisionTree/RandomForest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -734,18 +692,31 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/lastname_vi" />
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/sklearn/ensemble/forest.py">
+    <entry file="file://$PROJECT_DIR$/.ignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-187">
-          <caret line="547" column="24" lean-forward="true" selection-start-line="547" selection-start-column="24" selection-end-line="547" selection-end-column="24" />
+        <state relative-caret-position="0">
+          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/name_gender.txt">
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7220">
-          <caret line="361" column="9" lean-forward="false" selection-start-line="361" selection-start-column="9" selection-end-line="361" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="860">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="395" column="40" lean-forward="true" selection-start-line="395" selection-start-column="40" selection-end-line="395" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/dist-packages/numpy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3614">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -753,24 +724,118 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigdata/DesisionTree/RandomForest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1160">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigdata/service/Test.py" />
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/sklearn/ensemble/forest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21820">
+          <caret line="1115" column="19" lean-forward="false" selection-start-line="1115" selection-start-column="19" selection-end-line="1115" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigdata/service/SexService.py" />
+    <entry file="file://$PROJECT_DIR$/src/bigdata/gender/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigdata/gender/SexService.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="12" column="47" lean-forward="false" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/name_gender.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17020">
+          <caret line="851" column="8" lean-forward="false" selection-start-line="851" selection-start-column="8" selection-end-line="851" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigdata/gender/GenderPrediction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigdata/gender/ModelBuilder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="72" column="34" lean-forward="false" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigdata/gender/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/-1247972723/_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="99" column="4" lean-forward="false" selection-start-line="99" selection-start-column="4" selection-end-line="99" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/http:__www.facebook.com_datamquoc-pagesouput.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/-1247972723/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10540">
+          <caret line="527" column="54" lean-forward="false" selection-start-line="527" selection-start-column="41" selection-end-line="527" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigdata/gender/ClassificationSex.py">
+    <entry file="file://$PROJECT_DIR$/output/https:__www.facebook.com_mongvolam.sohagame_-pagesouput.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="122" column="26" lean-forward="false" selection-start-line="122" selection-start-column="26" selection-end-line="122" selection-end-column="26" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigdata/soha/soha.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
           <folding>
-            <element signature="e#24#42#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.ignore">
+    <entry file="file://$PROJECT_DIR$/src/bigdata/svm/SupportVectorMachine.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+        <state relative-caret-position="246">
+          <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
           <folding />
         </state>
       </provider>
