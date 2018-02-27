@@ -1,4 +1,3 @@
-
 from sklearn.model_selection import cross_val_predict
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.feature_extraction.text import CountVectorizer
@@ -9,6 +8,7 @@ import codecs
 import re
 import pandas as pd
 import numpy as np
+
 
 class Random_Forest:
     def __init__(self):
@@ -37,12 +37,12 @@ class Random_Forest:
 
                     list_word.extend(line.split())
         word_count = Counter(list_word)
-        index_dic =0;
+        index_dic = 0
         for count in word_count.items():
             index_dic += 1
-            fw.write(str(index_dic)+':')
-            fw.write(count[0].encode('utf-8')+':')
-            fw.write(str(count[1])+'\n')
+            fw.write(str(index_dic) + ':')
+            fw.write(count[0].encode('utf-8') + ':')
+            fw.write(str(count[1]) + '\n')
 
     def transform_vector_feature(self):
         vectorizer = CountVectorizer()
@@ -62,7 +62,6 @@ class Random_Forest:
         # ax.set_xlabel('Measured')
         # ax.set_ylabel('Predicted')
 
-
         plt.scatter()
         plt.show()
         # self.clf.fit(self.vector_feature.toarray(), self.labels)
@@ -70,8 +69,6 @@ class Random_Forest:
         # joblib.dump(self.clf, "/home/kumin/PycharmProjects/SparkExample/models/rdf.model")
 
 
-
 if __name__ == '__main__':
     rf = Random_Forest()
     rf.train()
-

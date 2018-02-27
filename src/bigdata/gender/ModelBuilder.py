@@ -48,9 +48,12 @@ def count_feature_vn(name):
         arr[ind] = +1
 
     arr[-1] = len(name)
-    arr[-2] = alphabet_vn.index(name[-2])
-    arr[-3] = alphabet_vn.index(name[-1])
-
+    if len(name) == 1:
+        arr[-2] = alphabet_vn.index(name[0])
+        arr[-3] = alphabet_vn.index(name[0])
+    else:
+        arr[-2] = alphabet_vn.index(name[-1])
+        arr[-3] = alphabet_vn.index(name[-2])
     return arr
 
 
@@ -88,8 +91,8 @@ def train():
             else:
                 count_female += 1
         print 'male: ' + str(count_male) + ' female:' + str(count_female)
-        clf = RandomForestClassifier(n_estimators=150, min_samples_split=10)
-        clf.fit(Xtr_balance, ytr_balance)
+        clf = RandomForestClassifier(n_estimators=150, min_samples_split=10, class_weight='balanced')
+        clf.fit(Xtr, ytr)
 
         accuracy = np.mean(clf.predict(Xt) == yt)
         if accuracy > max_accuracy:
@@ -110,6 +113,7 @@ def predic_gender_test():
 
         print clf.predict(count_feature_vn(first_name))
 
+
 def preprocessing_text(content):
     content = content.lower()
     content = content.rstrip()
@@ -122,6 +126,7 @@ def remove_last_name(full_namne):
         full_namne = full_namne.re
 
     return full_namne
+
 
 if __name__ == '__main__':
     # train()

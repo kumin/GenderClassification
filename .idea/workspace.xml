@@ -2,41 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3b6194e-7748-4a93-9071-0501890ae88a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/http:__www.facebook.com_datamquoc-pagesouput.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_BuaTaVN_-pagesouput.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_DongTaTayDoc.vn_-pagesouput.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_RowVietnam_-pagesouput.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_TamQuoc.3D_-pagesouput.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_TamQuocBaNghiep-pagesouput.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_XichBich3D_-pagesouput.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_badao.gaba.vn_-pagesouput.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_daichientamquoc_?ref=br_rs-pagesouput.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_daiminhchu_-pagesouput.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_groups_1824961627793158_?source_id=131133654034074-pagesouput.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_groups_669013496625436_about_-pagesouput.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_groups_TamQuocGO_about_-pagesouput.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_groups_XichBich3D_about_-pagesouput.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_groups_daichientamquoc_about_-pagesouput.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_groups_datamquoc.vn_about_-pagesouput.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_groups_dongtataydoc.vn_about_-pagesouput.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_groups_kimdung_about_-pagesouput.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_groups_longtuong3d_about_-pagesouput.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_groups_vothanhmobile_?source_id=1823417017983633-pagesouput.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_khongminhtruyen_-pagesouput.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_longtuongvtc_-pagesouput.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_mongvolam.sohagame_-pagesouput.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_tamquoc3q.vtcgame_?ref=br_rs-pagesouput.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_vothanhmobile.vn_-pagesouput.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/https:__www.facebook.com_xtamquoc_-pagesouput.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bigdata/gender/GenderPrediction.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bigdata/gender/SexService.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bigdata/soha/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bigdata/soha/soha.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bigdata/svm/SupportVectorMachine.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bigdata/svm/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/bigdata/gender/ClassificationSex.py" afterPath="$PROJECT_DIR$/src/bigdata/gender/ModelBuilder.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/model/clf_vi.model" afterPath="$PROJECT_DIR$/model/clf_vi_1.0.model" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/clf_vi.model" afterPath="$PROJECT_DIR$/model/clf_vi.model" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/bigdata/DesisionTree/RandomForest.py" afterPath="$PROJECT_DIR$/src/bigdata/DesisionTree/RandomForest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/bigdata/gender/ModelBuilder.py" afterPath="$PROJECT_DIR$/src/bigdata/gender/ModelBuilder.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -48,11 +19,31 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SupportVectorMachine.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/bigdata/svm/SupportVectorMachine.py">
+      <file leaf-file-name="GenderPrediction.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bigdata/gender/GenderPrediction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+            <state relative-caret-position="200">
+              <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ModelBuilder.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/bigdata/gender/ModelBuilder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="133" column="0" lean-forward="true" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="name_gender.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/name_gender.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="849" column="8" lean-forward="true" selection-start-line="849" selection-start-column="8" selection-end-line="849" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -74,6 +65,7 @@
       <find>predict(</find>
       <find>female</find>
       <find>print</find>
+      <find>balance</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -82,8 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/data/name_gender.txt" />
-        <option value="$PROJECT_DIR$/src/bigdata/DesisionTree/RandomForest.py" />
         <option value="$PROJECT_DIR$/data/lastname_vi.txt" />
         <option value="$PROJECT_DIR$/.ignore" />
         <option value="$PROJECT_DIR$/src/bigdata/service/Test.py" />
@@ -95,6 +85,9 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/bigdata/soha/soha.py" />
         <option value="$PROJECT_DIR$/src/bigdata/svm/SupportVectorMachine.py" />
+        <option value="$PROJECT_DIR$/src/bigdata/DesisionTree/RandomForest.py" />
+        <option value="$PROJECT_DIR$/data/name_gender.txt" />
+        <option value="$PROJECT_DIR$/src/bigdata/gender/ModelBuilder.py" />
       </list>
     </option>
   </component>
@@ -184,28 +177,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="svm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ClassifyGender" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ClassifyGender" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bigdata" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="gender" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -232,10 +203,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ClassifyGender" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ClassifyGender" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ClassifyGender" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ClassifyGender" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="RecentsManager">
@@ -260,7 +259,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SupportVectorMachine">
+  <component name="RunManager" selected="Python.ClassificationSex">
     <configuration default="false" name="ClassificationSex" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -397,34 +396,18 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittests in ModelBuilder.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ClassifyGender" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/bigdata/gender/ModelBuilder.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
-    </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in ModelBuilder.py" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ClassificationSex" />
-      <item index="2" class="java.lang.String" itemvalue="Python.SupportVectorMachine" />
-      <item index="3" class="java.lang.String" itemvalue="Python.GenderPrediction" />
-      <item index="4" class="java.lang.String" itemvalue="Python.soha" />
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Python.ClassificationSex" />
+      <item index="1" class="java.lang.String" itemvalue="Python.SupportVectorMachine" />
+      <item index="2" class="java.lang.String" itemvalue="Python.GenderPrediction" />
+      <item index="3" class="java.lang.String" itemvalue="Python.soha" />
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.SupportVectorMachine" />
-        <item index="1" class="java.lang.String" itemvalue="Python.soha" />
-        <item index="2" class="java.lang.String" itemvalue="Python.GenderPrediction" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ClassificationSex" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ClassificationSex" />
+        <item index="1" class="java.lang.String" itemvalue="Python.GenderPrediction" />
+        <item index="2" class="java.lang.String" itemvalue="Python.SupportVectorMachine" />
+        <item index="3" class="java.lang.String" itemvalue="Python.soha" />
       </list>
     </recent_temporary>
   </component>
@@ -442,49 +425,48 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_ClassificationSex_py - 2017.09.19 at 08h 57m 02s.xml">
-      <configuration name="Unittests in ClassificationSex.py" configurationId="tests" />
+    <history-entry file="Unittests_in_ModelBuilder_py - 2018.02.26 at 10h 46m 08s.xml">
+      <configuration name="Unittests in ModelBuilder.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_ClassificationSex_py - 2017.09.19 at 08h 58m 46s.xml">
-      <configuration name="Unittests in ClassificationSex.py" configurationId="tests" />
+    <history-entry file="Unittests_in_ModelBuilder_py - 2018.02.26 at 10h 47m 59s.xml">
+      <configuration name="Unittests in ModelBuilder.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_ClassificationSex_py - 2017.09.19 at 10h 40m 07s.xml">
-      <configuration name="Unittests in ClassificationSex.py" configurationId="tests" />
+    <history-entry file="Unittests_in_ModelBuilder_py - 2018.02.26 at 10h 49m 05s.xml">
+      <configuration name="Unittests in ModelBuilder.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_ClassificationSex_py - 2017.09.19 at 10h 55m 01s.xml">
-      <configuration name="Unittests in ClassificationSex.py" configurationId="tests" />
+    <history-entry file="Unittests_in_ModelBuilder_py - 2018.02.26 at 11h 06m 30s.xml">
+      <configuration name="Unittests in ModelBuilder.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_ClassificationSex_py - 2017.09.19 at 11h 37m 37s.xml">
-      <configuration name="Unittests in ClassificationSex.py" configurationId="tests" />
+    <history-entry file="Unittests_in_ModelBuilder_py - 2018.02.26 at 11h 09m 58s.xml">
+      <configuration name="Unittests in ModelBuilder.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_ClassificationSex_py - 2017.09.19 at 14h 52m 16s.xml">
-      <configuration name="Unittests in ClassificationSex.py" configurationId="tests" />
+    <history-entry file="Unittests_in_ModelBuilder_py - 2018.02.26 at 11h 10m 06s.xml">
+      <configuration name="Unittests in ModelBuilder.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_ClassificationSex_py - 2017.10.14 at 10h 54m 06s.xml">
-      <configuration name="Unittests in ClassificationSex.py" configurationId="tests" />
+    <history-entry file="Unittests_in_ModelBuilder_py - 2018.02.26 at 11h 10m 16s.xml">
+      <configuration name="Unittests in ModelBuilder.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_ClassificationSex_py - 2017.10.14 at 10h 54m 51s.xml">
-      <configuration name="Unittests in ClassificationSex.py" configurationId="tests" />
+    <history-entry file="Unittests_in_ModelBuilder_py - 2018.02.26 at 11h 15m 39s.xml">
+      <configuration name="Unittests in ModelBuilder.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_ClassificationSex_py - 2018.01.11 at 10h 15m 52s.xml">
-      <configuration name="Unittests in ClassificationSex.py" configurationId="tests" />
+    <history-entry file="Unittests_in_ModelBuilder_py - 2018.02.26 at 11h 37m 13s.xml">
+      <configuration name="Unittests in ModelBuilder.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_ClassificationSex_py - 2018.01.11 at 10h 16m 24s.xml">
-      <configuration name="Unittests in ClassificationSex.py" configurationId="tests" />
+    <history-entry file="Unittests_in_ModelBuilder_py - 2018.02.26 at 11h 58m 22s.xml">
+      <configuration name="Unittests in ModelBuilder.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="-11" width="1561" height="912" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28684732" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29081297" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3303342" sideWeight="0.502574" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40616965" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40616965" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3303342" sideWeight="0.497426" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3303342" sideWeight="0.497426" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39974293" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -677,7 +659,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/clf_vi.model">
+    <entry file="file://$PROJECT_DIR$/model/clf_vi_1.0.model">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -696,13 +678,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="860">
-          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -727,13 +702,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigdata/DesisionTree/RandomForest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1160">
-          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/bigdata/service/Test.py" />
     <entry file="file:///usr/local/lib/python2.7/dist-packages/sklearn/ensemble/forest.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -747,34 +715,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigdata/gender/SexService.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="12" column="47" lean-forward="false" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/name_gender.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17020">
-          <caret line="851" column="8" lean-forward="false" selection-start-line="851" selection-start-column="8" selection-end-line="851" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigdata/gender/GenderPrediction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigdata/gender/ModelBuilder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1360">
-          <caret line="72" column="34" lean-forward="false" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -818,7 +758,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -826,16 +765,63 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
           <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/bigdata/svm/SupportVectorMachine.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+        <state relative-caret-position="240">
+          <caret line="14" column="45" lean-forward="true" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="42" column="32" lean-forward="false" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigdata/DesisionTree/RandomForest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1280">
+          <caret line="73" column="14" lean-forward="true" selection-start-line="73" selection-start-column="14" selection-end-line="73" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigdata/gender/SexService.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigdata/gender/GenderPrediction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/name_gender.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="849" column="8" lean-forward="true" selection-start-line="849" selection-start-column="8" selection-end-line="849" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigdata/gender/ModelBuilder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="133" column="0" lean-forward="true" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
           <folding />
         </state>
       </provider>
