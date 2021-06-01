@@ -68,7 +68,7 @@ software-center-aptd-plugins==0.0.0
 system-service==0.1.6
 ujson==1.35
 unity-lens-photos==1.0
-urllib3==1.7.1
+urllib3==1.26.5
 vboxapi==1.0
 wheel==0.24.0
 wsgiref==0.1.2
